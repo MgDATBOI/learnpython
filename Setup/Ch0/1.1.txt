@@ -1,0 +1,18 @@
+Before you learn how to code, you should be set up for success. This involves 
+	downloading python (be sure to add python to your os path) https://www.python.org/downloads/
+	install an IDE
+		atom:    https://atom.io/
+		sublime: https://www.sublimetext.com/3
+		vscode:  https://code.visualstudio.com/
+		pycharm: https://www.jetbrains.com/pycharm/download/
+		spyder:  https://www.spyder-ide.org/
+		jupyter: https://jupyter.org/install (notebooks)
+	understand what code is and why we write it
+		PoC ch 0
+	a good terminal
+		windows terminal:       windows store -> search -> "windows terminal"
+		alacrity (rip termite): https://github.com/alacritty/alacritty/releases/
+		.bashrc:                customize your terminal
+	basic terminal commands (cd, ls/dir, clear/cls, pwd)
+		https://www.youtube.com/watch?v=oxuRxtrO2Ag
+	
